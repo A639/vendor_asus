@@ -7,4 +7,4 @@ key 116   POWER	            WAKE
 key 2     HOME              WAKE
 key 3     BACK              WAKE_DROPPED
 key 1     MENU              WAKE_DROPPED
-key 4     SEARCH
+key 4     POWER             WAKE
