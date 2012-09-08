@@ -3,8 +3,8 @@ key 103   DPAD_UP           WAKE_DROPPED
 key 96    DPAD_CENTER       WAKE_DROPPED
 key 105   DPAD_LEFT         WAKE_DROPPED
 key 106   DPAD_RIGHT        WAKE_DROPPED
-key 116   POWER	            WAKE
-key 2     HOME              WAKE
-key 3     BACK              WAKE_DROPPED
-key 1     MENU              WAKE_DROPPED
-key 4     POWER             WAKE
+key 116   ENDCALL           WAKE            # Power key
+key 429   HOME              WAKE            # Addressbook key
+key 397   BACK              WAKE_DROPPED    # Calendar key
+key 167   MENU              WAKE_DROPPED    # Record key
+key 217   SEARCH            WAKE            # Search key
