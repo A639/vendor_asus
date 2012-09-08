@@ -1,0 +1,5 @@
+#
+# system.prop for a639
+#
+
+android.keylayout.gpio-keys = /system/usr/keylayout/gpio-keys.kl

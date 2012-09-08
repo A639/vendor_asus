@@ -1,0 +1,3 @@
+
+PRODUCT_MAKEFILES := \
+	$(LOCAL_DIR)/a639.mk
