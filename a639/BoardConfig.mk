@@ -14,6 +14,8 @@ TARGET_BOOTIMAGE_USE_EXT2 := true
 TARGET_USERIMAGES_USE_EXT2 := true
 TARGET_USERIMAGES_SPARSE_EXT_DISABLED := true
 
+TARGET_PROVIDES_INIT_RC := true
+
 # Flash Partition size limits for build sanity checking
 #
 BOARD_BOOTIMAGE_MAX_SIZE := 2621440

@@ -8,4 +8,5 @@ PRODUCT_COPY_FILES += \
 # board specific init.rc
 #
 PRODUCT_COPY_FILES += \
-	$(LOCAL_PATH)/init.rc:root/init.rc
+	$(LOCAL_PATH)/init.rc:root/init.rc \
+	$(LOCAL_PATH)/init.a639.rc:root/init.a639.rc

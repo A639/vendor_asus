@@ -1,0 +1,6 @@
+
+on boot
+    # set permissions for liblights
+    chown system system /sys/class/leds/a639:blue:buttons/brightness
+    chown system system /sys/class/backlight/pwm-backlight/brightness
+
